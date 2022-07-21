@@ -22,13 +22,21 @@ Users should be able to:
 ### Screenshot
 
 Mobile design
+
 ![](assets/design/mobile-design.jpg)
 
 Desktop design
+
 ![](assets/design/desktop-design.jpg)
 
 Active states
+
 ![](assets/design/active-states.jpg)
+
+### Links
+
+- Solution URL: [Stats preview card component solution](https://www.frontendmentor.io/solutions/order-summary-component-6gcAVYOcoN)
+- Live Site URL: [GitHub Pages](https://jimaloko.github.io/Order-summary-component/)
 
 ## My process
 
